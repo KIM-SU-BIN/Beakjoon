@@ -13,9 +13,9 @@ public class Q03 {
 		
 		int n = sc.nextInt();
 				
-		for(int i = 1; i<=n; i++) {
+		for(int i=1; i<=n; i++) {
 			
-			sum = sum + i;
+			sum = sum + i;		//sum += i;
 			System.out.println(sum);
 			
 		}
