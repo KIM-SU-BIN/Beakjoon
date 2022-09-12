@@ -21,7 +21,7 @@ public class Q04 {		//영수증
 		}
 		
 		if(sum == X) {
-			System.out.println("yes");
+			System.out.println("Yes");
 		} else {
 			System.out.println("No");
 		}
