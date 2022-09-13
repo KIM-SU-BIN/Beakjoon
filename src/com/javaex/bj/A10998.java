@@ -2,7 +2,7 @@ package com.javaex.bj;
 
 import java.util.Scanner;
 
-public class AmultiplyB {
+public class A10998 {
 
 	public static void main(String[] args) {
 		
