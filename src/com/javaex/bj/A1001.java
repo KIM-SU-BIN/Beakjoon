@@ -2,7 +2,7 @@ package com.javaex.bj;
 
 import java.util.Scanner;
 
-public class AminusB {
+public class A1001 {
 
 	public static void main(String[] args) {
 
