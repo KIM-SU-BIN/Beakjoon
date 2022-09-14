@@ -2,7 +2,7 @@ package com.javaex.bj;
 
 import java.util.Scanner;
 
-public class AplusB {
+public class Q1000 {
 
 	public static void main(String[] args) {
 		
