@@ -1,6 +1,6 @@
 package com.javaex.bj;
 
-public class Welovekriii02 {
+public class Q10718 {
 	
 	public static void main(String[] args) {
 		
