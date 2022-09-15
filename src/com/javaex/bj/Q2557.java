@@ -1,6 +1,6 @@
 package com.javaex.bj;
 
-public class HelloWorld01 {
+public class Q2557 {
 
 	public static void main(String[] args) {
 		
