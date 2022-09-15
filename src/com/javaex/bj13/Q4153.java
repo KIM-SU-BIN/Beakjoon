@@ -1,4 +1,4 @@
-package com.javaex.bj;
+package com.javaex.bj13;
 
 import java.util.Scanner;
 
